@@ -51,7 +51,7 @@ it will perform two main processes.
 
 #### `packet.py` file
 
-this file will the contain the template of the packet object AKA "the class", blueprint you know?
+this file will contain the template of the packet object AKA "the class", blueprint you know?
 
 I like dividing the code into modules it keeps the complexity at levels that can be controlled.
 
